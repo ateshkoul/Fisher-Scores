@@ -57,7 +57,12 @@ function FTable = featFisher(Data,initial_col,obj)
 
 % Output = F table as a cell.
 
-% Atesh Koul
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
+
 % Created 08/07/2014
 % Changes 10/07/2014
 % Based on suggestion of Yuan that we would be interested in only

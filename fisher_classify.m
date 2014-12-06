@@ -7,6 +7,12 @@
 % EURASIP Journal on Advances in Signal Processing, 2014(1), 38. 
 % doi:10.1186/1687-6180-2014-38
 
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
+
 % separate the positive and negative instances - in this case, large and
 % small object
 

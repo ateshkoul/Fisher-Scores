@@ -1,4 +1,9 @@
-40:% Script to test if the data is distribution is normal for the features
+% Script to test if the data is distribution is normal for the features
+
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
 
 % Select the features that we are intested in:
 features = Data(:,[8:27 40:109 170:199]);

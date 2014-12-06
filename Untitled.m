@@ -1,3 +1,7 @@
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
 initial_col = [8 18 40 50 60 70 80 90 100 170 180 190];
 
 % This is done as i will start from 1. Other way to do is to use i = 0:9

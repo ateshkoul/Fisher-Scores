@@ -57,7 +57,11 @@
 
 % Output = F table as a cell.
 
-% Atesh Koul
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
 % Created 08/07/2014
 
 % Important thing is to recursively select different features - (1,2),
